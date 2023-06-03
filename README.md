@@ -1,2 +1,2 @@
 # React-estudos
-Estudos da lib e montagem de projetos React
+Estudos da Lib e montagem de projetos React, Nextjs
